@@ -1,1 +1,1 @@
-# Basic-PWA-progressive-web-apps
+# Basic-progressive-web-apps
